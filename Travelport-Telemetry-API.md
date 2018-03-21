@@ -15,7 +15,7 @@ This quickstart guides you through adding the Travelport Telemetry API SDK to an
 API can gather telemetry data from any internet-connected application, regardless of whether it's running on-premises or in the cloud. Use the following steps to start:
 
 - Take product ID (int) you wish to log your telemetry.
-- If your product not exists provision a new product to be added (ProductConsultancy.EE@travelport.com)
+- If your product not exists provision a new product to be added (contact Travelport Product Owner)
 - Add SDK dll reference (together with config file) to your project
 - Initialize telemetry engine object by creating new Telemetry object
 
